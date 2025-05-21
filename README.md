@@ -88,7 +88,11 @@ The shapefile of Brazilian municipalities can be found at: https://www.ibge.gov.
 
 It must be downloaded and placed in the same directory as the other project files, specifically within the BR_Municipios_2024 folder.
 
-Thus, the correct path to reference the file is: ./BR_Municipios_2024/BR_Municipios_2024.shp
+Thus, the correct path to reference the file is: 
+
+```
+./BR_Municipios_2024/BR_Municipios_2024.shp
+```
 
 ---
 
