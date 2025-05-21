@@ -72,7 +72,7 @@ In comparison to traditional relational databases like PostgreSQL or MySQL, Mong
 ## 6. Project Structure
 
 ```
- app.py                 # Main ETL pipeline script
+ app.py                # Main ETL pipeline script
  utils.py              # Helper functions for download, mask, extraction, and DB
  environment.yml       # Conda environment
  output/               # Parquet output folder
