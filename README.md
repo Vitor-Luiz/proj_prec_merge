@@ -1,4 +1,4 @@
-# ☁️ Brazilian Capital Cities - Daily Precipitation ETL (MERGE/CPTEC)
+# Brazilian Capital Cities - Daily Precipitation ETL (MERGE/CPTEC)
 
 This project is corresponds in a ETL pipeline that downloads **hourly precipitation data** from the [MERGE/CPTEC](https://ftp.cptec.inpe.br/modelos/tempo/MERGE/GPM/HOURLY/) repository, aggregates it into **daily rainfall totals (12Z–12Z)**, extracts precipitation for **all Brazilian capital cities**, and stores the data in **Apache Parquet format** and a **MongoDB database**.
 
