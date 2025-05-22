@@ -62,10 +62,6 @@ Apache Parquet is a modern columnar storage format specifically designed for lar
 
 ---
 
-## 5. Why MongoDB?
-
-MongoDB is a document-oriented NoSQL database that offers significant advantages for handling complex and heterogeneous data structures. Its flexible schema design allows for the seamless management of geospatial and time-indexed data without the constraints of predefined columns, which is particularly beneficial for environmental datasets. MongoDB is inherently scalable, supporting distributed architectures and high availability. Moreover, it provides efficient storage capabilities, especially when dealing with nested or hierarchical data structures, such as those often encountered in climate research.
-In comparison to traditional relational databases like PostgreSQL or MySQL, MongoDB does not require a fixed schema, making it more adaptable to evolving data formats. While relational databases can support geospatial queries through extensions like PostGIS, MongoDB includes native geospatial functionalities. Furthermore, whereas relational databases offer limited support for JSON, MongoDB stores data in BSON, enabling full support for hierarchical and embedded documents. These characteristics make MongoDB particularly well-suited for applications involving climate and environmental data.
 
 ---
 
